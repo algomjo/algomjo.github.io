@@ -16,3 +16,7 @@ Edite os arquivos e envie as alterações para `main`. O GitHub Pages publica a 
 Conteúdo reunido em 9 de setembro de 2026, com base no [perfil público do GitHub](https://github.com/algomjo/algomjo), nos repositórios destacados e nos dados públicos do [LinkedIn](https://br.linkedin.com/in/algomjo/en). A página pública do LinkedIn não exibe todos os cargos e períodos; essas informações não foram inferidas. Foto servida pelo GitHub; fontes DM Sans e Manrope via Google Fonts, com alternativas locais.
 
 Os projetos são apresentados como portfólio, com links para seus códigos e para a demonstração já publicada. O site não executa os backends dos projetos.
+
+## Revisão de conteúdo — 23 de outubro de 2026
+
+Incluída seção de tecnologias e práticas, distinguindo stack principal, aplicação em projetos e conhecimentos complementares. Adicionados [Formulário Dinâmico](https://github.com/algomjo/FormularioDinamico) e [Sudoku em Java](https://github.com/algomjo/sudoku-java), com base em seus READMEs públicos. Perfil do GitHub e dados públicos indexados do LinkedIn consultados novamente; nenhuma nova experiência profissional foi confirmada. Não foram atribuídos níveis de domínio, cargos ou períodos não verificados.
